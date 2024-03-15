@@ -1,2 +1,2 @@
-# residencia-portugol
-residencia-portugol
+# residencia/portugol
+residencia/portugol
